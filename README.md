@@ -1,55 +1,62 @@
-# Empty old City、Wuthering Waves – Daisy Crown
+# Empty old City、Wuthering Waves – Daisy Crown (English Ver.)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:01.13] 巡り逢ったあの水辺で
-[00:06.54] 君の背中に見えたのは
-[00:12.23] 悲劇が泳いだ模様 命の瞬きと
-[00:17.59] 仄かに揺れる星の舞
-[00:22.09] 
-[00:26.29] 君との永遠を願うように
-[00:32.29] 白い花を紡いだよ
-[00:38.07] 名前を呼ぶ声に
-[00:40.57] 光と慈愛があった
-[00:43.94] 時間が経っても
-[00:45.04] 褪せないような音がしたんだ
-[00:51.54] 
-[00:49.35] With the daisy crown
-[00:51.53] 眠る愛の音 青白い月光
-[00:57.08] 濡れる頬にそっと
-[01:00.49] 温かくて柔らかい
-[01:03.21] 身体中の想いを添えるから
-[01:06.85] Now I know by sharing our warmth
-[01:09.41] We came closer
-[01:16.41] 
-[01:24.08] 君が祈りを捧ぐたび
-[01:29.46] 僕はそっと影を消したよ
-[01:35.37] 鐘が鳴り止むまで
-[01:38.07] 秘密を名乗り続けた
-[01:41.23] 君が言うんなら形はいっそ求めない
-[01:49.23] 
-[01:55.60] Purely satisfied only to
-[01:58.73] Play with toys together
-[02:01.10] Maybe I'm shaped by
-[02:03.52] Thousands of memories of to you
-[02:07.13] 互いに僕らは
-[02:09.14] 埃だらけのフィルムを抱えてる
-[02:12.44] 日常から少し遠い安息へ
-[02:17.94] 
-[02:24.11] With the daisy crown
-[02:26.46] 眠る愛の音 青白い月光
-[02:32.18] 照らされる少女
-[02:35.56] 温かくて柔らかい
-[02:38.79] 面影は鮮明に咲いているかい
-[02:42.27] It lets you know we're
-[02:43.65] Sharing our warmth however far
-[02:58.65] 
-[02:50.08] On the daisy crown
-[02:52.15] 夢を見たの 白昼よりずっと
-[02:57.53] 暖かい夢を
-[03:01.42] 次目を覚ましたら消えそうな
-[03:04.18] あの記憶に身を任せてる
-[03:07.57] Now I know we're
-[03:09.04] Sharing our warmth however far
+[00:01.30] I remember the time we met by the shore
+[00:07.13] I found you holding what I cannot say enough
+[00:12.84] The tragedy on your back flowed in
+[00:15.65] The swaying little stars on the waltz
+[00:18.35] A blink of life your eyes caught in that night
+[00:41.35] 
+[00:27.11] Hoping that no end rends us to be with you
+[00:32.97] Embed a wish into the woven white flowers
+[00:38.48] The loving and full bright voice that
+[00:40.37] You gave me no matter when you called my name
+[01:02.87] 
+[00:44.30] Even as time goes by
+[00:45.77] I can let it play now
+[00:47.15] Refuses to fade out
+[00:56.65] 
+[00:49.78] With the daisy crown
+[00:51.85] The moonlight palely poured down
+[00:54.72] The humming of slumber
+[00:57.62] A dream's tear made your cheek wet
+[01:14.62] 
+[01:01.49] Embracing soft and glowing warmth
+[01:03.97] Let me lie down beside you giving all my heart
+[01:07.64] Now I know by sharing our warmth
+[01:09.96] We came closer
+[01:16.96] 
+[01:24.25] I made myself fade into the deeper shadows
+[01:30.15] I listened to the ringing as you prayed more
+[01:35.61] That was the only thing I could do
+[01:38.47] I kept a silent secret, just for you, here
+[01:41.52] What matters in the end is not the shape
+[01:43.58] But you – you hold it tight
+[01:57.08] 
+[01:56.44] Purely satisfied only to play with toys together
+[02:02.29] Maybe I'm shaped by thousands of memories of you
+[02:07.71] Together, we hold the old dusty film
+[02:10.04] Even though it no longer goes the way it used to
+[02:12.93] Reach for a rest, remember, I'm here for you
+[02:34.93] 
+[02:24.51] With the daisy crown
+[02:26.87] The moonlight palely poured down
+[02:29.67] The humming of slumber
+[02:32.66] A girl bathed in the pale light
+[02:48.16] 
+[02:36.32] Embracing soft and glowing warmth
+[02:38.98] Do you remember me on the dark and lone night?
+[02:42.73] It lets you know we're sharing our warmth however far
+[03:09.23] 
+[02:50.30] On the daisy crown
+[02:52.63] I had a dream so warm
+[02:55.23] Than the midday sun and glow
+[02:58.37] A dream stays with me warmer
+[03:12.37] 
+[03:01.90] To the memory that might fade if I blink once again
+[03:04.90] I let myself lie down
+[03:06.41] In dreams, I'm with you
+[03:08.22] Now I know we're sharing our warmth however far
 ```
