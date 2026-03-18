@@ -1,55 +1,49 @@
-# Empty old City、Wuthering Waves – Daisy Crown (English Ver.)
+# Empty old City、Wuthering Waves – Daisy Crown
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:01.74] I remember the time we met by the shore
-[00:07.22] I found you holding what I cannot say enough
-[00:12.94] The tragedy on your back flowed in
-[00:15.73] The swaying little stars on the waltz
-[00:18.51] A blink of life your eyes caught in that night
-[00:27.03] Hoping that no end rends us to be with you
-[00:33.04] Embed a wish into the woven white flowers
-[00:38.60] The loving and full bright voice that you
-[00:41.40] Gave me no matter when you called my name
-[00:44.34] Even as time goes by, I can let it play now
-[00:47.15] Refuses to fade out
-[00:49.68] With the daisy crown
-[00:51.87] The moonlight palely poured down
-[00:54.71] The humming of slumber
-[00:57.75] A dream's tear made your cheek wet
-[01:01.51] Embracing soft and glowing warmth
-[01:04.03] Let me lie down beside you giving all my heart
-[01:07.75] Now I know by sharing our warmth
-[01:10.07] We came closer
-[01:24.31] I made myself fade into the deeper shadows
-[01:30.25] I listened to the ringing as you prayed more
-[01:35.72] That was the only thing I could do
-[01:38.61] I kept a silent secret, just for you, here
-[01:41.71] What matters in the end is not the shape
-[01:43.71] But you, you hold it tight
-[01:56.58] Purely satisfied only to
-[01:59.53] Play with toys together
-[02:02.40] Maybe I'm shaped by
-[02:04.04] Thousands of memories of you
-[02:08.05] Together, we hold the old dusty film
-[02:09.96] Even though it no longer goes the way it used to
-[02:13.03] Reach for a rest, remember, I'm here for you
-[02:24.75] With the daisy crown
-[02:27.03] The moonlight palely poured down
-[02:29.88] The humming of slumber
-[02:32.79] A girl bathed in the pale light
-[02:36.48] Embracing soft and glowing warmth
-[02:39.03] Do you remember me on the dark and lone night?
-[02:42.73] It lets you know we're
-[02:43.75] Sharing our warmth however far
-[02:50.51] On the daisy crown
-[02:52.67] I had a dream so warm
-[02:55.32] Than the midday sun and glow
-[02:58.45] A dream stays with me warmer
-[03:01.94] To the memory that might fade if I blink once again
-[03:05.15] I let myself lie down
-[03:06.56] In dreams, I'm with you
-[03:08.45] Now I know we're
-[03:09.49] Sharing our warmth however far
+[00:01.13] Meguriaatta ano mizube de
+[00:06.54] Kimi no senaka ni mieta no wa
+[00:12.23] Higeki ga oyoida mon’yō inochi no matataki to
+[00:17.59] Honoka ni yureru hoshi no mai
+[00:26.29] Kimi to no eien wo negau you ni
+[00:32.29] Shiroi hana wo tsumui da yo
+[00:38.07] Namae wo yobu koe ni
+[00:40.57] Hikari to jiai ga atta
+[00:43.94] Jikan ga tatte mo
+[00:45.04] Asenai you na oto ga shita nda
+[00:49.35] With the daisy crown
+[00:51.53] Nemuru ai no oto ao shiroi gekkō
+[00:57.08] Nureru hoho ni sotto
+[01:00.49] Atatakakute yawarakai
+[01:03.21] Karadajuu no omoi wo soeru kara
+[01:06.85] Now I know by sharing our warmth
+[01:09.41] We came closer
+[01:24.08] Kimi ga inori wo sasagu tabi
+[01:29.46] Boku wa sotto kage wo keshita yo
+[01:35.37] Kane ga nariyamu made
+[01:38.07] Himitsu wo nanori tsudzuketa
+[01:41.23] Kimi ga iu nara katachi wa isso motomenai
+[01:55.60] Purely satisfied only to
+[01:58.73] Play with toys together
+[02:01.10] Maybe I'm shaped by
+[02:03.52] Thousands of memories of to you
+[02:07.13] Tagai ni bokura wa
+[02:09.14] Hokoridarake no firumu wo kakaeteru
+[02:12.44] Nichijou kara sukoshi tooi ansoku e
+[02:24.11] With the daisy crown
+[02:26.46] Nemuru ai no oto ao shiroi gekkō
+[02:32.18] Terasa reru shoujo
+[02:35.56] Atatakakute yawarakai
+[02:38.79] Omokage wa senmei ni saite iru kai?
+[02:42.27] It lets you know we're
+[02:43.65] Sharing our warmth however far
+[02:50.08] On the daisy crown
+[02:52.15] Yume wo mita no hakuchuu yori zutto
+[02:57.53] Atatakai yume wo
+[03:01.42] Tsugi me wo samashitara kiesou na
+[03:04.18] Ano kioku ni mi wo makaseteru
+[03:07.57] Now I know we're
+[03:09.04] Sharing our warmth however far
 ```
